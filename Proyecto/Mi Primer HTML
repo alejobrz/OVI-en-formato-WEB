@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<style>
+	body{
+		background-color: #454545
+}
+</style>
+	<meta charset="UTF-8">
+	 <title>
+            Mi Primer HTML
+            <link href="../css/fileinput.css" media="all" rel="stylesheet" type="text/css" />
+            <link href="http://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" rel="stylesheet">
+            <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+            <script src="../js/fileinput.min.js" type="text/javascript"></script>
+            </title>
+            <meta content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" name="viewport">
+            <link href="css/bootstrap.min.css" rel="stylesheet">
+            <link href="css/Personalizacion/Mi Estilo.css" rel="stylesheet">
+            <link href="css/bootstrap-social.CSS" rel="stylesheet">
+	<title>Mi Primer HTML</title>
+
+</head>
+<body>
+<div class="GITHUB jumbotron">
+            <div class="container">
+                            <h1>
+                    Mi Primer HTML
+                </h1>
+  
+                <br>
+                    <p>
+                        Abre el Bloc de Notas de Windows mediante: Inicio > Todos los programas > Accesorios > Bloc de Notas. En Ubuntu puedes utilizar el procesador de textos mediante: Aplicaciones > Accesorios > Procesador de textos.
+                        Ejemplo:
+                        En un documento nuevo escribe el siguiente texto:
+
+"<html> 
+<head> 
+<title>Mi primera pagina</title> 
+</head> 
+<body> 
+Hola mundo 
+</body> 
+</html>
+                    </p>
+                    <a class="btn btn-primary btn-md" href="index.html" role="button">
+                        << Inicio OVI
+                        <div class="col-md_3">
+               <button class="Inicio OVI">https://lhenao12.github.io/index.html</button>
+                    </a>
+               <button class="Lectura Estilos CSS3">tutorialspoint.com.html</button>
+                    <a class="btn btn-primary btn-md" href="tutorialspoint.com.html" role="button">
+                        Lectura Estilos CSS3 >>
+                        <div class="col-md_3">
+                                  </a>
+                </br>
+            </div>
+        </div>
+        <div align="center">
+            <a href="http://www.ite.educacion.es/formacion/materiales/107/cd/html/html0102.html">accede a la presentacion</a>
+            </div>
+        <script src="js/jquery.js">
+        </script>
+        <script src="js/bootstrap.min.js">
+        </script>
+    </body>
+</html>
+
+	
+</body>
+</html>
